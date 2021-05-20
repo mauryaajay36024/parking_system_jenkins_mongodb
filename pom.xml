@@ -48,14 +48,11 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-mongodb</artifactId>
 		</dependency>
-<<<<<<< HEAD
-=======
 
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-mongodb</artifactId>
 		</dependency>
->>>>>>> pom file added
         <dependency>
             <groupId>org.jetbrains</groupId>
             <artifactId>annotations</artifactId>
