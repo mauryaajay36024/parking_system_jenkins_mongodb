@@ -67,7 +67,7 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
-					<finalName>parking_system_rest_api_application</finalName>
+					<finalName>parking_system_application</finalName>
 				</configuration>
 			</plugin>
 		</plugins>
