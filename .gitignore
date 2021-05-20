@@ -1,4 +1,8 @@
 HELP.md
+<<<<<<< HEAD
+=======
+target/
+>>>>>>> .gitignore added
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
@@ -12,6 +16,13 @@ HELP.md
 .settings
 .springBeans
 .sts4-cache
+<<<<<<< HEAD
+=======
+ELP.md
+est
+HELP.md
+target/
+>>>>>>> .gitignore added
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
@@ -19,6 +30,10 @@ HELP.md
 *.DS_Store
 .mvn
 mvnw.cmd
+<<<<<<< HEAD
+=======
+target
+>>>>>>> .gitignore added
 mvnw
 
 ### STS ###
